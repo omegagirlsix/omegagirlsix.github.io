@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+# Cynthia Jessica Sulimowicz
+## 🏳️‍⚧️ **_She/Her_** 🏳️‍⚧️
 
-You can use the [editor on GitHub](https://github.com/omegagirlsix/omegagirlsix.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## May 27, 2022
+###### _A New Start_
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/omegagirlsix/omegagirlsix.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  So welcome to the "website" I guess. I put that in air quotes because I'm mainly setting this up so I somewhat have a domain of my own to associate with a project to relearn Java, so that I may be able to pass a coding challenge on Tuesday next week and hopefully only be without a job for a few days.
+  
+  Not that I think I can add the project to a pubic resume mind you, it was technically a group college project (even though I wrote 99% of it), however the bigger problem is the fact that it is currently tied to my old GitHub account made under my deadname of Chester Kittle. Or at the very least, it was made by that guy, and I don't want to associate with him anymore. A little hard since that's still my legal name, but that's a different matter altogether.
+  
+  Anyways...I want to redo the whole Space Shooter project from scratch anyways, the current me that hasn't touched programming in close to a year cannot even begin to understand what Chester was thinking. And not in an _"I don't understand what this code means"_ kind of way, more of an _"What the hell were you thinking?"_ kind of way...hindsight, maybe. Or me forgetting things I tried before finding this working method...doubt it though.
